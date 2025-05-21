@@ -1,7 +1,7 @@
  n ## Hi there 👋
 
-- 🔭 I’m currently working on improving my DSA skills and diving into machine learning with python
-- 🌱 I’m currently learning Django, data structures and algorithm, machine learning 
+- 🔭 I’m currently working on improving my DSA skills and diving into data science and machine learning with python
+- 🌱 I’m currently learning data structures and algorithm along side data science and machine learning with python
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about software engineering and ai, i am fascinated by how they both work
 - 📧 Email: oluwafemionadokun@gmail.com
