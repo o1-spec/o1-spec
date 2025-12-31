@@ -1,38 +1,57 @@
-## Hi there 👋 I'm Oluwafemi Onadokun
+## 👋 Hi, I'm Oluwafemi Onadokun
 
-🚀 **Full-Stack Software Engineer** | Frontend • Backend • Problem Solving  
+🌐 **Portfolio:** https://o1-spec.vercel.app/  
+📧 **Email:** oluwafemionadokun@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/oluwafemi-onadokun  
+🐦 **Twitter:** https://twitter.com/Oluwafemi166  
+
+🚀 **Full-Stack Software Engineer** | Frontend • Backend • System Design
 
 I enjoy building scalable, well-designed applications and continuously improving my engineering fundamentals.  
-Currently deepening my skills in **backend systems**, **data structures & algorithms**, and exploring how **AI** and **IoT** shape modern software.
+I’m currently focused on backend development with **Node.js**, strengthening my **data structures & algorithms** skills, and exploring **AI**, **IoT**, and **system design concepts**.
 
 ---
 
-## 🔭 What I’m Working On
-- Building full-stack applications using **Node.js**
-- Improving **DSA** skills with **JavaScript & Python**
+## 🔭 What I’m Currently Working On
+- Building full-stack applications with **Node.js**
+- Improving **DSA** using **JavaScript & Python**
+- Exploring **Three.js** for interactive web experiences
+- Learning the foundations of **Data Science & Machine Learning**
+- Studying **system design** and backend architecture
 
 ---
 
 ## 🌱 Currently Learning
-- Data Structures & Algorithms (JS & Python)
-- Backend architecture & APIs with Node.js
-- AI concepts and real-world use cases
-- Internet of Things (IoT) and how connected systems work
+- Data Structures & Algorithms (JavaScript & Python)
+- Backend architecture & APIs (Node.js, REST)
+- System design fundamentals
+- AI concepts and real-world applications
+- Internet of Things (IoT) and connected systems
+
+---
+
+## 🧠 System Design & Backend Architecture
+
+I’m actively deepening my system design knowledge by studying how real-world, large-scale systems are built.  
+My focus is on understanding **trade-offs** around scalability, performance, reliability, and maintainability.
+
+📐 **System Design Notes (in progress):**  
+_(Planning to document designs for real-world systems like music streaming, URL shorteners, and chat applications.)_
 
 ---
 
 ## 👯 Open to Collaboration
-I’m happy to collaborate on:
+I’m open to collaborating on:
 - Open-source projects
-- Full-stack applications
-- Backend systems
-- Anything interesting and impactful 🚀
+- Full-stack & backend applications
+- Interesting ideas with real-world impact
 
 ---
 
 ## 💬 Ask Me About
 - Software Engineering
 - Full-Stack Development
+- Backend & System Design
 - Data Structures & Algorithms
 - AI & emerging technologies
 
@@ -47,25 +66,20 @@ I’m happy to collaborate on:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
 
-### Backend
+### Backend & System Design
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge)
 
-### Data & Algorithms
+### Data, AI & Algorithms
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0A66C2?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-1F2937?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📫 Connect With Me
-- 📧 Email: **oluwafemionadokun@gmail.com**
-- 🐦 Twitter: [@Oluwafemi166](https://twitter.com/Oluwafemi166)
-- 💼 LinkedIn: [Oluwafemi Onadokun](https://linkedin.com/in/oluwafemionadokun)
 
 ---
 
@@ -75,4 +89,4 @@ I’m happy to collaborate on:
 
 ---
 
-⭐️ *Always learning, always building.*
+⭐️ *Always learning. Always building. Always improving.*
