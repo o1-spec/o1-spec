@@ -47,7 +47,7 @@ A distributed realtime chat application built with:
 * Idempotent message delivery
 * Persistent chat storage
 
-🔗 **Repository:** [Add Link]
+🔗 **Repository:** https://github.com/o1-spec/SocketChat 
 
 ---
 
@@ -72,7 +72,7 @@ A distributed file processing pipeline designed for scalable asynchronous proces
 * Processing status tracking
 * Scalable backend design
 
-🔗 **Repository:** [Add Link]
+🔗 **Repository:** https://github.com/o1-spec/File-flow 
 
 ---
 
