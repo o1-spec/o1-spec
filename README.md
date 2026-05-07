@@ -78,24 +78,28 @@ A distributed file processing pipeline designed for scalable asynchronous proces
 
 ## 🔹 PneumoDetect
 
-An AI-assisted pneumonia detection platform focused on improving healthcare accessibility.
+An AI-assisted pneumonia detection platform focused on improving healthcare accessibility through mobile-first diagnostic workflows.
 
-### Stack
+### Architecture
 
-* React Native (Expo)
-* NestJS
-* PostgreSQL
-* Flask (AI integration)
+* Mobile Client: React Native (Expo)
+* Backend API: NestJS
+* Database: PostgreSQL
+* AI Service: Flask (planned integration)
 
 ### Features
 
 * X-ray upload & analysis
-* Scan history
-* Authentication system
+* Authentication & authorization
+* Scan history tracking
 * AI prediction workflow
 * Mobile-first healthcare experience
+* Backend API architecture with NestJS
 
-🔗 **Repository:** [Add Link]
+### Repositories
+
+📱 Mobile App: https://github.com/o1-spec/PneumoDetect
+⚙️ Backend API: https://github.com/o1-spec/PneumoDetect-Backend
 
 ---
 
