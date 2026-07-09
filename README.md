@@ -64,6 +64,7 @@ An AI-powered observability platform for background jobs, queues, retries, failu
 - AI-assisted failure explanations
 
 🔗 **Live:** https://queuewatch-web.vercel.app
+🔗 **Repository:** https://github.com/o1-spec/queuewatch
 
 ---
 
