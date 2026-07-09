@@ -1,219 +1,250 @@
 ## 👋 Hi, I'm Oluwafemi Onadokun
 
-🌐 **Portfolio:** https://o1-spec.vercel.app/
-📧 **Email:** [oluwafemionadokun@gmail.com](mailto:oluwafemionadokun@gmail.com)
-💼 **LinkedIn:** https://linkedin.com/in/oluwafemi-onadokun
-🐦 **Twitter/X:** https://twitter.com/Oluwafemi166
+I’m a **Full-Stack Software Engineer** focused on building scalable web applications, frontend experiences, backend systems, realtime infrastructure, and AI-powered products.
+
+I enjoy designing and building systems that are reliable, practical, and useful in real-world environments.
+
+🌐 **Portfolio:** https://o1-spec.vercel.app/  
+📧 **Email:** [oluwafemionadokun@gmail.com](mailto:oluwafemionadokun@gmail.com)  
+💼 **LinkedIn:** https://linkedin.com/in/oluwafemi-onadokun  
+🐦 **Twitter/X:** https://twitter.com/Oluwafemi166  
 🧩 **LeetCode:** https://leetcode.com/u/femi19/
 
 ---
 
-# 🚀 Full-Stack Software Engineer
+## 🚀 What I’m Focused On
 
-I build scalable web applications, backend systems, realtime infrastructure, and mobile applications.
-
-My current focus is on:
-
-* distributed systems
-* backend architecture
-* realtime communication systems
-* scalable APIs
-* system design
-* AI-powered applications
-
-I enjoy understanding how real-world systems are designed, the trade-offs behind them, and how to build reliable software that scales.
+- Frontend engineering
+- Product-focused UI development
+- Backend architecture
+- Distributed systems
+- Queue-based systems
+- Realtime communication
+- Scalable APIs
+- System design
+- AI-powered developer tools
+- Mobile-first applications
 
 ---
 
-# 🔥 Featured Engineering Projects
+## 🔥 Featured Projects
 
-## 🔹 SocketChat
+### Foundry
 
-A distributed realtime chat application built with:
+A visual AI software development workspace for designing, orchestrating, and executing multi-agent engineering workflows.
 
-* Node.js
-* Express
-* Socket.IO
-* Redis Adapter
-* PostgreSQL
-* JWT Authentication
+**Built with:** Next.js, TypeScript, React Flow, TailwindCSS, Node.js
 
-### Key Features
+**Key Features:**
 
-* Realtime messaging
-* Distributed websocket scaling
-* Redis pub/sub synchronization
-* Sticky session architecture
-* Idempotent message delivery
-* Persistent chat storage
+- Visual workflow builder for AI agents
+- Multi-stage software development pipeline
+- Agent-based task execution
+- Interactive graph-based interface
+- Project planning and generation flow
+- Developer-focused UI for AI-assisted building
 
-🔗 **Repository:** https://github.com/o1-spec/SocketChat 
+🔗 **Repository:** https://github.com/o1-spec/foundry-new
 
 ---
 
-## 🔹 FileFlow
+### QueueWatch
 
-A distributed file processing pipeline designed for scalable asynchronous processing.
+An AI-powered observability platform for background jobs, queues, retries, failures, and dead-letter queues.
 
-### Built With
+**Built with:** Next.js, NestJS, PostgreSQL, Redis, BullMQ, WebSockets, TypeScript
 
-* Node.js
-* BullMQ
-* Redis
-* PostgreSQL
-* MinIO (S3-compatible object storage)
+**Key Features:**
 
-### Features
+- Queue and background job monitoring
+- Retry and failure tracking
+- Dead-letter queue visibility
+- Worker health monitoring
+- Realtime job updates
+- AI-assisted failure explanations
 
-* Queue-based file processing
-* Worker architecture
-* Retry & failure handling
-* Presigned uploads
-* Processing status tracking
-* Scalable backend design
-
-🔗 **Repository:** https://github.com/o1-spec/File-flow 
+🔗 **Live:** https://queuewatch-web.vercel.app
 
 ---
 
-## 🔹 PneumoDetect
+### SocketChat
 
-An AI-assisted pneumonia detection platform focused on improving healthcare accessibility through mobile-first diagnostic workflows.
+A distributed realtime chat application designed to handle scalable websocket communication.
 
-### Architecture
+**Built with:** Node.js, Express, Socket.IO, Redis, PostgreSQL, JWT
 
-* Mobile Client: React Native (Expo)
-* Backend API: NestJS
-* Database: PostgreSQL
-* AI Service: Flask (planned integration)
+**Key Features:**
 
-### Features
+- Realtime messaging
+- Distributed websocket scaling
+- Redis pub/sub synchronization
+- Sticky session architecture
+- Persistent message storage
+- Authentication and authorization
 
-* X-ray upload & analysis
-* Authentication & authorization
-* Scan history tracking
-* AI prediction workflow
-* Mobile-first healthcare experience
-* Backend API architecture with NestJS
-
-### Repositories
-
-📱 Mobile App: https://github.com/o1-spec/PneumoDetect
-⚙️ Backend API: https://github.com/o1-spec/PneumoDetect-Backend
+🔗 **Repository:** https://github.com/o1-spec/SocketChat
 
 ---
 
-# 🧠 System Design & Backend Engineering
+### FileFlow
 
-I actively study and build backend systems to deepen my understanding of:
+A distributed file processing pipeline for handling asynchronous file uploads and background processing.
 
-* scalability
-* reliability
-* system trade-offs
-* distributed architectures
-* realtime infrastructure
-* queue-based processing systems
+**Built with:** Node.js, BullMQ, Redis, PostgreSQL, MinIO
 
-Currently documenting and designing systems such as:
+**Key Features:**
 
-* chat applications
-* file processing systems
-* URL shorteners
-* streaming platforms
-* API gateways
+- Queue-based file processing
+- Worker architecture
+- Retry and failure handling
+- Presigned uploads
+- Processing status tracking
+- Scalable backend design
+
+🔗 **Repository:** https://github.com/o1-spec/File-flow
 
 ---
 
-# 📱 Mobile Development
+### PneumoDetect
+
+An AI-assisted pneumonia detection platform designed to support mobile-first healthcare diagnostics.
+
+**Built with:** React Native, Expo, NestJS, PostgreSQL, Flask
+
+**Key Features:**
+
+- X-ray upload workflow
+- Authentication and authorization
+- Scan history tracking
+- AI prediction workflow
+- Mobile-first healthcare experience
+- Backend API architecture with NestJS
+
+🔗 **Mobile App:** https://github.com/o1-spec/PneumoDetect  
+🔗 **Backend API:** https://github.com/o1-spec/PneumoDetect-Backend
+
+---
+
+## 🧠 System Design & Backend Engineering
+
+I actively study and build systems around:
+
+- Scalability
+- Reliability
+- Caching
+- Queues
+- Realtime infrastructure
+- API gateways
+- Background workers
+- Database design
+- System trade-offs
+
+Some systems I am currently building or documenting include:
+
+- Chat applications
+- File processing pipelines
+- Job queue monitoring tools
+- News feed systems
+- URL shorteners
+- API gateways
+- Rate limiters
+
+---
+
+## 📱 Mobile Development
 
 I build cross-platform mobile applications using React Native and Expo, focusing on:
 
-* performance
-* scalable architecture
-* clean UI/UX
-* secure authentication flows
-* API integration
-* responsive mobile experiences
+- Performance
+- Scalable architecture
+- Clean UI/UX
+- Secure authentication flows
+- API integration
+- Responsive mobile experiences
 
 ---
 
-# 🧩 Problem Solving & DSA
+## 🧩 Data Structures & Algorithms
 
-I actively practice Data Structures & Algorithms using JavaScript and Python to strengthen problem-solving and technical interview skills.
+I practice DSA with JavaScript and Python to improve problem-solving and technical interview readiness.
 
-Topics I focus on include:
+Current focus areas:
 
-* recursion & backtracking
-* graphs & trees
-* dynamic programming
-* sliding window
-* greedy algorithms
-* system design fundamentals
+- Arrays and strings
+- Sliding window
+- Two pointers
+- Recursion
+- Backtracking
+- Trees and graphs
+- Dynamic programming
+- Greedy algorithms
 
 🔗 **LeetCode:** https://leetcode.com/u/femi19/
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Frontend
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge\&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
 
-## Backend
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge)
 
-## Mobile
+### Mobile
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
 
-## Databases & Infrastructure
+### Databases & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge\&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![BullMQ](https://img.shields.io/badge/BullMQ-EAB308?style=for-the-badge)
 
-## AI & Problem Solving
+### AI & Problem Solving
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-1F2937?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge)
 
-## Tools
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-# 🤝 Open to Collaboration
+## 🤝 Open to Collaboration
 
 I’m open to collaborating on:
 
-* open-source projects
-* backend systems
-* scalable web applications
-* realtime infrastructure
-* AI-powered applications
-* interesting engineering ideas with real-world impact
+- Open-source projects
+- Frontend applications
+- Backend systems
+- Scalable web applications
+- Realtime infrastructure
+- AI-powered applications
+- Developer tools
+- Projects with real-world impact
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> *Kaizoku ni ore wa naru* 🏴‍☠️
+> *Kaizoku ni ore wa naru* 🏴‍☠️  
 > *(If you know, you know.)*
 
 ---
 
-⭐️ Always building. Always improving.
+⭐ Always building. Always improving.
